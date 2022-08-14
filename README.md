@@ -22,3 +22,6 @@ npm install -g heroku
 
 ##Screenshots
 
+![Screenshot 1](/public/Screenshot-1.png)
+![Screenshot 2](/public/Screenshot-2.png)
+![Screenshot 3](/public/Screenshot-3.png)
